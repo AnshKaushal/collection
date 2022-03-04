@@ -1,8 +1,8 @@
 body {
   margin: 0;
   color: #40514E;
-  text-align: center;
-  font-family: 'Merriweather', serif;
+  display : flex;
+  justify-content : center;
 }
 
 h1 {
