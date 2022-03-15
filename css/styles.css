@@ -39,50 +39,6 @@ p {
   text-decoration: underline;
 }
 
-.top-cloud {
-  position: absolute;
-  right: 300px;
-  top: 40px;
-}
-
-.bottom-cloud {
-  position: absolute;
-  left: 250px;
-  bottom: 300px;
-}
-
-.intro {
-  width: 30%;
-  margin: auto;
-}
-
-.code-img {
-  width: 30%;
-  float: left;
-  margin-right: 30px;
-}
-
-.drive-img {
-  width: 25%;
-  float: right;
-  margin-left: 30px;
-}
-
-.profile img {
-  width: 200px;
-  height: 200px;
-}
-
-.skill-row {
-  margin: 100px auto 100px auto;
-  width: 50%;
-  text-align: left;
-}
-
-.contact-message {
-  width: 40%;
-  margin: 40px auto 60px;
-}
 
 hr {
   border: dotted #EAF6F6 6px;
@@ -107,16 +63,14 @@ hr {
 .footer-link:hover{
   color : #EAF6F6;
 }
-.middle-container {
-  margin: 100px 0;
-}
+
 .copyright-message{
   color : #EAF6F6;
   font-size: 0.75rem;
   padding : 20px 0px;
 }
 .portfolio{
-  text-align: left;
+  text-align: center;
   margin : 5% 30%;
   font-family: sans-serif;
   font-size: 1.2rem;
